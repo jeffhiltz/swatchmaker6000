@@ -15,5 +15,9 @@
     "swatch"
   ],
   "author": "Jeff Hiltz",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "color-convert": "^2.0.1",
+    "js-yaml": "^3.13.1"
+  }
 }
