@@ -1,0 +1,19 @@
+{
+  "name": "swatchmaker6000",
+  "version": "1.0.0",
+  "description": "Makes SVG swatches for colour schemes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svg",
+    "colour",
+    "color",
+    "themes",
+    "schemes",
+    "swatch"
+  ],
+  "author": "Jeff Hiltz",
+  "license": "ISC"
+}
